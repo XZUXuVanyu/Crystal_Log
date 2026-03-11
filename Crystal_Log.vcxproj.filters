@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\CrystalLog.ixx">
+    <ClCompile Include="src\Internal.ixx">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\Types.ixx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Crystal_Log.ixx">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

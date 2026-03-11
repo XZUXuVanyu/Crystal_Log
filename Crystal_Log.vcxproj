@@ -88,7 +88,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\CrystalLog.ixx" />
+    <ClCompile Include="src\Crystal_Log.ixx" />
+    <ClCompile Include="src\Internal.ixx" />
     <ClCompile Include="src\Types.ixx" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
