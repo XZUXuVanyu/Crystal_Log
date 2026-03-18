@@ -367,6 +367,6 @@ namespace Crystal
 		std::thread background_worker;
 
 		std::atomic<bool> is_active = false;
-		std::atomic<Log_Level> current_level = Info;
+		std::atomic<Log_Level> current_level = Log_Level::Debug;
 	};
 }
