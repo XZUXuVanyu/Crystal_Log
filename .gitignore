@@ -1,0 +1,21 @@
+# builds
+build/
+bin/
+temp/
+out/
+
+# IDE
+.vs/
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.db
+*.opendb
+
+# Logs
+*.log
+*.cache
+*.tmp
